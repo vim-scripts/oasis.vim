@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=782
+
+This file provides syntax definitions for OASIS-CC.
+
+Note that this syntax file only fully defines the statements commonly used in configuring the OASIS-CC database (i.e. if blocks and insert/delete/update commands).  The full range of CSTOL commands have not been taken into consideration by this script.
